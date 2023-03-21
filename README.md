@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ricky Truong</h1>
+<h1 align="center">Hello 👋 I'm Ricky Truong</h1>
 <h3 align="center">Business Analytics & Technology student at Portland State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickatronn&label=Profile%20views&color=0e75b6&style=flat" alt="rickatronn" /> </p>
