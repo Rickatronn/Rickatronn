@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rickyqtruong@gmail.com**
 
-- ⚡ Fun fact: **I enjoy editing videos on Adobe Premiere**
+- ⚡ Fun fact: **I enjoy editing videos on Adobe Premiere and working out at the gym**
 
 
 <h3 align="left">Languages:</h3>
