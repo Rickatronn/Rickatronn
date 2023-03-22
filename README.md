@@ -5,12 +5,13 @@
 
 - 🎓 Expected Graduation Date: **June 2023**
 
-- 🌱 I’m currently learning: **Python & SQL**
+- 🌱 I’m currently learning **Python & SQL**
 
-- 📫 How to reach me: **rickyqtruong@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/Rickatronn/Projects](https://github.com/Rickatronn/Projects)
+
+- 📫 How to reach me **rickyqtruong@gmail.com**
 
 - ⚡ Fun fact: **I enjoy editing videos on Adobe Premiere**
-
 
 
 <h3 align="left">Languages:</h3>
