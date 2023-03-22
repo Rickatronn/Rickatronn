@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I'm Ricky Truong</h1>
 <h3 align="center">Business Analytics & Technology student at Portland State University</h3>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif">
+<img align="right" alt="Coding" width="300" src="https://www.ancoris.com/hubfs/Website%20assets/Animations/Right.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickatronn&label=Profile%20views&color=0e75b6&style=flat" alt="rickatronn" /> </p>
 
