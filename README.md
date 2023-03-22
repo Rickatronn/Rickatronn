@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python & SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rickatronn/Projects](https://github.com/Rickatronn/Projects)
+- 👨‍💻 [All of my projects are available here!](https://github.com/Rickatronn/Projects)
 
 - 📫 How to reach me **rickyqtruong@gmail.com**
 
