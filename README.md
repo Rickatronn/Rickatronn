@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm Ricky Truong</h1>
-<h3 align="center">Business Analytics & Technology student at Portland State University</h3>
+<h3 align="center">Business Technology & Analytics Student at Portland State University</h3>
 
 <img align="right" alt="Coding" width="300" src="https://www.ancoris.com/hubfs/Website%20assets/Animations/Right.gif">
 
