@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 <h1 align="center">Hello 👋 I'm Ricky Truong</h1>
 <h3 align="center">Business Technology & Analytics Student at Portland State University</h3>
 
