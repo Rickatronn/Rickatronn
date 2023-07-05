@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋 I'm Ricky Truong</h1>
-<h3 align="center">Business Technology & Analytics Student at Portland State University</h3>
+<h3 align="center">Business Data Analytics Graduate & Incoming Masters Student at Portland State University</h3>
 
 <img align="right" alt="Coding" width="300" src="https://www.ancoris.com/hubfs/Website%20assets/Animations/Right.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickatronn&label=Profile%20views&color=0e75b6&style=flat" alt="rickatronn" /> </p>
 
-- 🎓 Expected Graduation Date: **June 2023**
+- 🎓 Expected MS Graduation Date: **June 2025**
 
 - 🌱 I’m currently learning: **Python & SQL**
 
