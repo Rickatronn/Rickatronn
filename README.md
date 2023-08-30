@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickatronn&label=Profile%20views&color=0e75b6&style=flat" alt="rickatronn" /> </p>
 
-- 🎓 Expected MS Graduation Date: **June 2025**
+- 🎓 Expected MS Graduation Date: **June 2024**
 
 - 🌱 I’m currently learning: **Python & SQL**
 
