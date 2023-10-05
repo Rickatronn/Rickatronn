@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm Ricky Truong</h1>
-<h3 align="center">Business Data Analytics Graduate & Incoming Masters Student at Portland State University</h3>
+<h3 align="center">Graduate Student at Portland State University</h3>
 
 <img align="right" alt="Coding" width="300" src="https://www.ancoris.com/hubfs/Website%20assets/Animations/Right.gif">
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **rickyqtruong@gmail.com**
 
-- ⚡ Fun fact: **I enjoy editing videos on Adobe Premiere and working out at the gym**
+- ⚡ Fun fact: **I enjoy editing videos on Adobe Premiere and weightlifting!**
 
 
 <h3 align="left">Languages:</h3>
