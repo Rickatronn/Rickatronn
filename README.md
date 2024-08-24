@@ -1,11 +1,11 @@
 <h1 align="center">Howdy 👋 I'm Ricky Truong</h1>
-<h3 align="center">Graduate Student at Portland State University</h3>
+<h3 align="center">Masters of Applied Data Science for Business (MSADSB) Graduate at Portland State University</h3>
 
 <img align="right" alt="Coding" width="300" src="https://www.ancoris.com/hubfs/Website%20assets/Animations/Right.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickatronn&label=Profile%20views&color=0e75b6&style=flat" alt="rickatronn" /> </p>
 
-- 🎓 Expected MS Graduation Date: **June 2024**
+- 🎓 MS Graduation Date: **June 2024**
 
 - 🌱 I’m currently learning: **Python & SQL**
 
